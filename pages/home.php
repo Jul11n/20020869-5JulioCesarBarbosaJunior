@@ -22,7 +22,7 @@ Você escolhe o sabor da massa, recheio, cobertura e o layout do bolo, e nós fa
 </div>
 
 <div class="card" style="width: 15rem;">
-  <img class="card-img-top" src="./imagens/brownies/brownie.jpg" alt="Card image cap">
+  <img class="card-img-top" src="./imagens/brownie.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Brownies</h5>
     <p class="card-text">Uma delícia. Sobremesa perfeita. Macio e repleto de chocolate...</p>
