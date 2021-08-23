@@ -31,7 +31,7 @@ Você escolhe o sabor da massa, recheio, cobertura e o layout do bolo, e nós fa
 </div>
 
 <div class="card" style="width: 15rem;">
-  <img class="card-img-top" src="./imagens/cupcake.jpg" alt="Card image cap">
+  <img class="card-img-top" src="./imagens/cupcake2.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Cupcake</h5>
     <p class="card-text">Cupcake no tamanho tradicional com massa nos sabores chocolate, baunilha ou cenoura...</p>
