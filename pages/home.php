@@ -13,7 +13,7 @@ Você escolhe o sabor da massa, recheio, cobertura e o layout do bolo, e nós fa
 </div>
 
 <div class="card" style="width: 15rem;">
-  <img class="card-img-top" src="./imagens/bolo.png" alt="Card image cap">
+  <img class="card-img-top" src="./imagens/bolo.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Bolos Caseiros</h5>
     <p class="card-text">Nadinha de misturas prontas ou sabores artificiais, receitas exclusivas, feitas com ingredientes frescos...</p>
