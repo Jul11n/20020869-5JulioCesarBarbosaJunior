@@ -13,15 +13,15 @@
 
 <?php
 $produtos = [
-    "bolo" =>[
+    "bolo" =>[ 
       "descricao"=>" Nadinha de misturas prontas ou sabores artificiais,  receitas exclusivas, feitas com ingredientes frescos e muito amor para deixar o seu dia muito especial, são perfeitos para aquele café da tarde em Familia.",
       'preco'=>16.99,
-      'img'=>'bolo.jpg'
+      
     ],
     'cupcake'=>[
       'descricao'=>"Cupcake no tamanho tradicional (aproximadamente 7cm de diâmetro) com massa nos sabores chocolate, baunilha ou cenoura e coberturas nos sabores ganache de chocolate meio amargo, brigadeiro branco ou preto, doce de leite ou chantilly (que pode ser tingido em cores variadas). Recheios personalizados e confeitos diversos.",
       'preco'=> 7.99,
-      'img'=>'cupcake.png'
+      
     ], 
     'artesanal'=>[
       'descricao'=>"	
@@ -34,13 +34,13 @@ $produtos = [
       
       Temos bolos a pronta entrega!",
       'preco'=> 59.99,
-      'img'=>"bolo1.jpeg"
+      
     ],
   
     'brownie'=>[
       'descricao'=>"Uma delícia. Sobremesa perfeita. Macio e repleto de chocolate, um quadradinho de pura alegria...",
       'preco'=> 9.99,
-      'img'=>"brownie.jpg"
+      
     ],
     
     
