@@ -120,8 +120,8 @@ footer {
 }
 footer img{
   padding: .4rem;
-  height: 150px;
-  width: 170px;
+  height: 140px;
+  width: 150px;
 }
 .icons{
   padding: .5rem;
