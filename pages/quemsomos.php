@@ -4,7 +4,7 @@
 
 
 
-<p> <pre>A cozinha sempre esteve presente em nossas famílias. 
+<p> A cozinha sempre esteve presente em nossas famílias. 
 Comer e fazer doces nos remete a momentos de celebração e bons momentos em nossas vidas.
 A mesa e a comida sempre foram pretexto para nos reunirmos, para estarmos juntos!
 E éramos em tantos...primos, tios, avós, vizinhos, os meus, 
@@ -22,7 +22,7 @@ O ambiente aconchegante, com a oportunidade de ver a produção dos bolos, tomar
 O nome LA DE CASA quer transmitir alegria, satisfação, felicidade em forma de bolo. Nada melhor que um café e um bolo LA DE CASA.
 Queremos que o cheirinho do nosso bolo caseiro chegue à sua casa,
 te abrace e deixe um gostinho de quero mais. Que possa te trazer as melhores memórias e faça você voltar para apreciar cada vez mais o sabor verdadeiro do bolo caseiro!
-</pre></p>
+</p>
 <img src="./imagens/logotipo.png" alt="logo-doceria" style="width: 340px;">
 
 </div>

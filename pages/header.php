@@ -141,6 +141,8 @@ footer img{
 }
 .main p{
   padding:1rem;
+  text-align: justify;
+  width: 60%;
 }
 .comprar{
   background-color:#eac7a2 ;
