@@ -10,7 +10,7 @@
     </aside>
 
     <div>
-    <img class="img-prod" src="./imagens/cupcake.jpg"  alt="imagem_de_bolos">
+    <img class="img-prod" src="./imagens/cupcake2.jpg"  alt="imagem_de_bolos">
      <div class="botao-valor">R$<?php echo $produtos["cupcake"]["preco"]?></div>
      <div class="botao-valor"><button  class="comprar">Comprar</button></div>
     </div>
