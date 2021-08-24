@@ -10,7 +10,6 @@ RA: 20020869-5
 HTML5- como linguagem de marcação <br>
 PHP<br>
 CSS3- para estolizar todos os componentes.<br>
-Bootstrap 5<br>
 
 
 
