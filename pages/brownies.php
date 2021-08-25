@@ -9,7 +9,7 @@
     </aside>
 
     <div>
-     <img class="img-prod" src="./imagens/<?php echo $produtos["brownie"]["img"];?>"  alt="imagem_de_bolos">
+     <img class="img-prod" src="./imagens/brownie.jpg"  alt="imagem_de_bolos">
      <div class="botao-valor">R$<?php echo $produtos["brownie"]["preco"]?></div>
      <div class="botao-valor"><button  class="comprar">Comprar</button></div>
     </div>
